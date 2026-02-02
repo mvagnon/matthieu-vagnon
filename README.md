@@ -21,9 +21,7 @@ Grab a coffee and see how I make the web a better place.</p>
 
 | Tool | Description |
 | --- | --- |
-| Claude API | Top tier AI API. |
-| GitHub Copilot | AI agent in the IDE (mainly used for autocompletion). |
-| OpenCode | AI agents orchestration in the terminal. [Check out my OpenCode workflow!](https://github.com/matthieu-vagnon/opencode-workflow) |
+| Claude Code | Top tier agent in the terminal. [Check out my Claude Code workflow!](https://github.com/matthieu-vagnon/ai-workflow) |
 | Google Stitch | UI conception. |
 | Napkin.ai | Illustrations in documentations. |
 
