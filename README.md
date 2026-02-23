@@ -21,9 +21,9 @@ Grab a coffee and see how I make the web a better place.</p>
 
 | Tool | Description |
 | --- | --- |
-| Claude Code | Top tier agent in the terminal. [Check out my Claude Code workflow!](https://github.com/matthieu-vagnon/ai-workflow) |
+| Claude Code | Subscription-based AI agents in the CLI. [Check out my Claude Code workflow!](https://github.com/matthieu-vagnon/ai-workflow) |
+| OpenCode | Usage-based (API) AI agents in the CLI. |
 | Google Stitch | UI conception. |
-| Napkin.ai | Illustrations in documentations. |
 
 ## Tech Certifications
 
