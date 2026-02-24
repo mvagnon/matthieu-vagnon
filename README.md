@@ -3,7 +3,7 @@
 </div>
 <br />
 <p align="center"><i><b>Hi, and welcome to my GitHub!</b></i><br />
-Grab a coffee and see how I make the web a better place.</p>
+Grab a coffee and see how I make the digital world a better place.</p>
 <br />
 <div align="center">
   <img alt="GitHub Stats" src="https://mvagnon-github-readme.vercel.app/api/top-langs/?username=matthieu-vagnon&layout=compact&hide_title=true&theme=swift&border_radius=5&hide_border=true&langs_count=4" />
