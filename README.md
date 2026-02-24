@@ -14,16 +14,17 @@ Grab a coffee and see how I make the web a better place.</p>
 ## Current Projects
 
 - [x] ✍️ **Personal Dashboard** - AI-powered SaaS supporting developers to get opportunities.
+- [x] 👨‍💻 [**mvagnon/agents**](https://github.com/matthieu-vagnon/agents) - Shared configuration and conventions to bootstrap AI coding assistants.
 
-[All my projects](https://mvagnon.dev)
+[All my apps](https://mvagnon.dev)
 
 ## AI-assisted Workflow
 
 | Tool | Description |
 | --- | --- |
-| Claude Code | Subscription-based AI agents in the CLI. [Check out my AI workflow!](https://github.com/matthieu-vagnon/agents) |
-| OpenCode | Usage-based (API) AI agents in the CLI. |
-| Google Stitch | UI conception. |
+| Claude Code | Leading AI agents in the CLI. |
+| Cursor | Fast and reliably code auto-complete in the IDE. |
+| Google Stitch | UI/UX conception and export to Figma. |
 
 ## Tech Certifications
 
