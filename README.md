@@ -21,7 +21,7 @@ Grab a coffee and see how I make the web a better place.</p>
 
 | Tool | Description |
 | --- | --- |
-| Claude Code | Subscription-based AI agents in the CLI. [Check out my Claude Code workflow!](https://github.com/matthieu-vagnon/ai-workflow) |
+| Claude Code | Subscription-based AI agents in the CLI. [Check out my AI workflow!](https://github.com/matthieu-vagnon/agents) |
 | OpenCode | Usage-based (API) AI agents in the CLI. |
 | Google Stitch | UI conception. |
 
